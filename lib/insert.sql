@@ -1,6 +1,8 @@
-INSERT INTO series (title, author_id, subgenre_id) VALUES ("HanaKimi", 1, 1 ),(2, "Anita Blake: Vampire Hunter", 2, 2);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("HanaKimi", 1, 1 );
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("Anita Blake: Vampire Hunter", 2, 2);
 
-INSERT INTO subgenres (name) VALUES ("Manga"), ("Supernatural");
+INSERT INTO subgenres (name) VALUES ("Manga");
+("Supernatural");
   
 INSERT INTO authors (name) VALUES (1,"Hisaya Nakajo"), (2, "Laurel K. Hamilton");
 
